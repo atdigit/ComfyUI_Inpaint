@@ -8,7 +8,7 @@ You can easily utilize schemes below for your custom setups. Simply save and the
 Stable Diffusion models used in this demonstration are [Lyriel](https://civitai.com/models/22922/lyriel?modelVersionId=72396) and [Realistic Vision Inpainting](https://civitai.com/models/4201?modelVersionId=114600).
 
 Video tutorial on how to use ComfyUI, a powerful and modular Stable Diffusion GUI and backend, is [here](https://youtu.be/Ij8k6mBgL3o).
-Samples below are based on the original modular scheme found in [ComfyUI_examples -> Inpainting](https://comfyanonymous.github.io/ComfyUI_examples/inpaint/).
+Node setup 1 below is based on the original modular scheme found in [ComfyUI_examples -> Inpainting](https://comfyanonymous.github.io/ComfyUI_examples/inpaint/).
 
 ![ComfyUI_00021_](https://github.com/atdigit/ComfyUI_Inpaint/assets/105158639/df90792b-1bc0-4972-b6a0-4b0c5922ab0c)
 ![Clip_3](https://github.com/atdigit/ComfyUI_Inpaint/assets/105158639/583f0dc1-2cfe-473a-84fb-c0f97ba86404)
