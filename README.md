@@ -1,7 +1,7 @@
 # ComfyUI_Inpaint
 Examples below are accompanied by a [tutorial in my YouTube video](https://youtu.be/4JRnVRTKgh4).
 
-This ComfyUI nodes setup lets you utilize inpainting (edit some parts of image) in your ComfyUI AI generation routine.
+This ComfyUI node setups that let you utilize inpainting (edit some parts of an image) in your ComfyUI AI generation routine.
 
 You can easily utilize schemes below for your custom setups. Simply save and then drag and drop relevant image into your [ComfyUI interface window](https://github.com/comfyanonymous/ComfyUI) with or without ControlNet Inpaint model installed, load png image with or without mask you want to edit, modify some prompts, edit mask (if necessary), press "Queue Prompt" and wait for the AI generation to complete. 
 
