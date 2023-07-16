@@ -19,7 +19,7 @@ Node setup 1 below is based on the original modular scheme found in [ComfyUI_exa
 ![Clip](https://github.com/atdigit/ComfyUI_Inpaint/assets/105158639/58c08e4a-ac07-4cb9-a297-532e8c673837)
 ![Layer 1](https://github.com/atdigit/ComfyUI_Inpaint/assets/105158639/c8815b7b-5b80-4bc0-b871-4d30e4f05784)
 
-**↑ Node setup 2: Stable Diffusion with ControlNet classic Inpaint / Outpaint mode (Save kitten muzzle on winter background to your PC and then drag and drop it into your ComfyUI interface, drag and drop image with white arias to Load Image Node of ControlNet inpaint group, change widht and height for outpainting effect if necessary and press "Queue Prompt")**
+**↑ Node setup 2: Stable Diffusion with ControlNet classic Inpaint / Outpaint mode (Save kitten muzzle on winter background to your PC and then drag and drop it into your ComfyUI interface, drag and drop image with white arias to Load Image Node of ControlNet inpaint group, change width and height for outpainting effect if necessary and press "Queue Prompt")**
 
 
 You can use the [Official ComfyUI Notebook](https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb) to run these generations in Google Colab.
