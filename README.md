@@ -5,7 +5,7 @@ This ComfyUI nodes setup lets you apply inpainting (edit some parts of image) in
 
 You can easily utilize schemes below for your custom setups. Simply save and then drag and drop relevant image into your [ComfyUI interface window](https://github.com/comfyanonymous/ComfyUI) with or without ControlNet Inpaint model installed, load png image with or without mask you want to edit, modify some prompts, edit mask (if necessary), press "Queue Prompt" and wait for the AI generation to complete. 
 
-Stable Diffusion models used in this demonstration are [Lyriel](https://civitai.com/models/22922/lyriel?modelVersionId=72396) and Realistic Vision Inpaint.
+Stable Diffusion models used in this demonstration are [Lyriel](https://civitai.com/models/22922/lyriel?modelVersionId=72396) and [Realistic Vision Inpainting](https://civitai.com/models/4201?modelVersionId=114600).
 
 Video tutorial on how to use ComfyUI, a powerful and modular Stable Diffusion GUI and backend, is [here](https://youtu.be/Ij8k6mBgL3o).
 Samples below are based on the original modular scheme found in [ComfyUI_examples -> Inpainting](https://comfyanonymous.github.io/ComfyUI_examples/inpaint/).
